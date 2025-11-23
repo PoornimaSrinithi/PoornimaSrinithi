@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PoornimaSrinithi
 - 🚀 Aspiring Associate Technical Analyst | Web Development & Data Science Enthusiast
 - 👀 I’m interested in Web development and Data Science
-- 🌱 🌱 Currently learning Spring Boot and expanding my expertise in data-driven applications
+- 🌱 Learning Spring Boot and expanding my expertise in data-driven applications
 - 💞️ I am currently looking to get into an environment that makes me do new things and encourages me to succeed in my career by utilizing my skills and knowledge.
 - 📫 Mail id: poornimasrinithi2003@gmail.com
 - 💻 I’m passionate about solving real-world problems through technology and creating impactful solutions.
